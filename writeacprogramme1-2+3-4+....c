@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(){                                                    int no;
+int main(){                                                    
+    int no;
     printf("Enter a serial range number:");
     scanf("%d",&no);
     int a = 1;
